@@ -18,6 +18,9 @@ A lightweight and user-friendly calculator application built using **Kotlin** an
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/chekadCalculator.git
+
+Unzip it
+
 Open the project in Android Studio.
 
 Build and run on your emulator or Android device.
