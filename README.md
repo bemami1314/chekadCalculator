@@ -13,11 +13,6 @@ A lightweight and user-friendly calculator application built using **Kotlin** an
 - Responsive design for different screen sizes
 - Lightweight and fast
 
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)
-
 ## Installation
 
 1. Clone the repository:
