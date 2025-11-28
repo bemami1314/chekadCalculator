@@ -17,7 +17,7 @@ A lightweight and user-friendly calculator application built using **Kotlin** an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chekadCalculator.git
+   git clone https://github.com/bemami1314/chekadCalculator.git
 
 Unzip chekadCalculator
 
