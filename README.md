@@ -19,7 +19,7 @@ A lightweight and user-friendly calculator application built using **Kotlin** an
    ```bash
    git clone https://github.com/yourusername/chekadCalculator.git
 
-Unzip it
+Unzip chekadCalculator
 
 Open the project in Android Studio.
 
