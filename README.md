@@ -1,4 +1,4 @@
-# Simple Calculator App
+# chekadCalculator
 
 A lightweight and user-friendly calculator application built using **Kotlin** and **Jetpack Compose** for Android. This app performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -17,7 +17,7 @@ A lightweight and user-friendly calculator application built using **Kotlin** an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/yourusername/chekadCalculator.git
 Open the project in Android Studio.
 
 Build and run on your emulator or Android device.
